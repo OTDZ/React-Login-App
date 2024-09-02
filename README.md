@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Login application built using React and Node.JS where Users are able to sign up, select roles and login.
+A Login web application built using React and Node.JS where Users are able to sign up, select roles and login.
 
 ## Tech Stack
 
